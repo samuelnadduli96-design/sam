@@ -1,0 +1,7 @@
+{
+  "name": "Conscious AI Investing",
+  "description": "An automated digital asset investment platform with AI-driven day trading, profit compounding, and seamless mobile-linked transactions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
